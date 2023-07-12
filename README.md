@@ -1,1 +1,1 @@
-echo "hii everyone"
+echo "hola means hi in spanish everyone"
